@@ -1,0 +1,15 @@
+pkgbase = pcsclite-acr38
+	pkgdesc = PC/SC Drivers for ACR38 smart card reader
+	pkgver = 1.0.7.10
+	pkgrel = 1
+	url = http://www.acs.com.hk/drivers-manual.php?driver=ACR38
+	arch = i686
+	arch = x86_64
+	license = LGPL
+	depends = pcsclite
+	depends = libusb-compat
+	source = http://www.acs.com.hk/drivers/eng/ACR38U_driver_Lnx_1710_P.tar.gz
+	md5sums = 386ad8025ce226433526f03ed910946d
+
+pkgname = pcsclite-acr38
+
