@@ -3,7 +3,7 @@
 
 pkgname=pcsclite-acr38
 pkgver=1.0.7.10
-pkgrel=1
+pkgrel=2
 pkgdesc="PC/SC Drivers for ACR38 smart card reader"
 arch=('i686' 'x86_64')
 url="http://www.acs.com.hk/drivers-manual.php?driver=ACR38"
